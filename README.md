@@ -20,5 +20,5 @@
 
    作品 [DEMO](https://jasmin0410.github.io/JavaScript30/Day03%20-%20CSS%20Variables/index.html)
 
-   筆記 
+   筆記 [NOTE](https://medium.com/@wow92716/js-javascript30-day03-css-variables-440ba7d94bef)
    
