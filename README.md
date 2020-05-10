@@ -29,3 +29,9 @@
    筆記 [NOTE](https://medium.com/jass-note/js-javascript30-day04-array-cardio-day-1-b54c3725c955)
    
    
++ **DAY 05 - Flex Panel Gallery**
+
+   作品 [DEMO](https://jasmin0410.github.io/JavaScript30/Day05%20-%20Flex%20Panel%20Gallery/index.html)
+
+   筆記 [NOTE](https://medium.com/jass-note/js-javascript30-day05-flex-panel-gallery-4ccb09e5f2f)
+   
